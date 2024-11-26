@@ -1,0 +1,4 @@
+customtkinter==5.2.2
+sqlalchemy==2.0.36
+ruff==0.8.0
+mypy==1.13.0
